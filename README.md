@@ -17,7 +17,7 @@ El objetivo principal de este proyecto es diseñar un modelo funcional para la a
 
 - Bajo Consumo de Energía: Diseñado para funcionar con batería recargable de bajo consumo, lo que lo hace adecuado para un uso prolongado y portátil.
 
-- Interfaz de Usuario Intuitiva: La aplicación móvil o la interfaz de usuario es tomada del repositorio https://github.com/Alpusa/awecg dónde se encuentran los instaladores tanto para PC como para android
+- Interfaz de Usuario Intuitiva: La aplicación móvil o la interfaz de usuario es tomada del repositorio https://github.com/Alpusa/awecg dónde se encuentran los instaladores tanto para PC como para Android.
 
 ## Contacto
 
