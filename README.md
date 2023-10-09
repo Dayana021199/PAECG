@@ -3,7 +3,7 @@
 ![imagen_2023-09-20_190627670-removebg-preview](https://github.com/Dayana021199/PAECG/assets/135389828/6c784d99-827e-453f-8376-8774b855d59d) 
 
 
-Este repositorio contiene la documentación relacionada con un el proyecto PAECG, el cuál es un monitor cardiaco de una derivación de bajo consumo que puede detectar y transmitir señales cardíacas a través de Bluetooth Low Energy (BLE) para su posterior visualización en dispositivos móviles o computadoras.
+Este repositorio contiene la documentación relacionada con un el proyecto PAECG, el cuál es un monitor cardiaco de una derivación de bajo consumo que puede detectar y transmitir señales cardíacas a través de Bluetooth Low Energy (BLE) para su posterior visualización en dispositivos móviles o computadoras. Ver video: https://youtu.be/cMndsSj6O-s 
 
 ## Descripción 
 
